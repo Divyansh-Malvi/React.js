@@ -1,0 +1,67 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "empno": 450,
+      "name": "Ramu",
+      "email": "ramu123@gmail.com",
+      "contact": 1234567890
+    },
+    {
+      "id": "2",
+      "empno": 451,
+      "name": "Ramesh",
+      "email": "ramesh123@gmail.com",
+      "contact": 1234567891
+    },
+    {
+      "id": "3",
+      "empno": 452,
+      "name": "Ramunj",
+      "email": "ramunj123@gmail.com",
+      "contact": 1234567892
+    },
+    {
+      "id": "4",
+      "empno": 453,
+      "name": "Ramunja",
+      "email": "ramunja123@gmail.com",
+      "contact": 1234567893
+    },
+    {
+      "id": "ee68",
+      "empno": "123",
+      "name": "Divyansh Malvi",
+      "email": "divymalvi2005@gmail.com",
+      "contact": "8225007717"
+    },
+    {
+      "id": "58cf",
+      "empno": "456",
+      "name": "Jayesh",
+      "email": "jay123@gmail.com",
+      "contact": "1563247893"
+    },
+    {
+      "id": "49c9",
+      "empno": "789",
+      "name": "Vivek Tiwari",
+      "email": "vivek123@gmail.com",
+      "contact": "9876543210"
+    },
+    {
+      "id": "f6ee",
+      "empno": "455",
+      "name": "Prathmesh",
+      "email": "pra123@gmail.com",
+      "contact": "15975326480"
+    },
+    {
+      "id": "bd7f",
+      "empno": "741",
+      "name": "ismail",
+      "email": "ismail12@gmail.com",
+      "contact": "1236547890"
+    }
+  ]
+}
